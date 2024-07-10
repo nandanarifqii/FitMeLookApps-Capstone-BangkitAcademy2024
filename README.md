@@ -1,28 +1,49 @@
-# FitMeLook-MachineLearning
+<p align="center">
+  <img align="center" width="700" src="Bangkit Project - FitMeLook.png" />
+</p>
 
-## Face Shape Classification
-Facial recognition and classification have become integral parts of various applications, including security systems, entertainment, and even personalized marketing. Understanding and categorizing face shapes can play a crucial role in enhancing these applications. The Face Shape Classification dataset provides a comprehensive collection of images to support research and development in this domain.
+<p align="justify">FitMeLook is an Android mobile application that aims to assist women in finding clothing styles that suit their face shape and skin tone based on 4 seasonal color theory. This project utilizes image recognition technology to provide personalized recommendations. Users can either take a photo or select one from their gallery, and our system will analyze facial features to detect the user's skin tone based on 4 seasonal colors: winter, summer, spring, and autumn, as well as face shapes such as heart, oblong, round, and square. Based on the collected data, our application offers clothing recommendations tailored to ensure users can easily find attire that complements their features. Our primary goal is to boost users' confidence in their daily attire choices, making them feel more comfortable and self-assured. Through this approach, we hope to help women express themselves through clothing styles that reflect their unique characteristics.</p>
 
-This dataset comprises a total of 5000 images of female celebrities from around the globe. The images are meticulously categorized according to five distinct face shapes: Heart, Oblong, Oval, Round, and Square. Each category contains 1000 images, ensuring a balanced representation of each face shape type
+<h2 align="center">Bangkit 2024 Capstone Team: C241-PS323</h2>
 
-Link Dataset : https://www.kaggle.com/datasets/niten19/face-shape-dataset
+## Key Features
 
-Categories and Distribution:
-* Heart: 1000 images
-* Oblong: 1000 images
-* Oval: 1000 images
-* Round: 1000 images
-* Square: 1000 images
+- **Image Recognition Technology:** Analyze user photos to detect facial features and determine skin tone.
+- **4 Seasonal Color Theory:** Classify users' skin tones into winter, summer, spring, and autumn categories.
+- **Face Shape Analysis:** Identify face shapes such as heart, oblong, round, and square.
+- **Personalized Recommendations:** Offer tailored clothing suggestions that complement users' unique features.
 
-Training and Testing Sets: Each face shape category is divided into a training set and a testing set.
-* Training Set: 800 images per category
-* Testing Set: 200 images per category
+## How It Works
 
-## 4 Seasonal Color System Dataset
-The 4 Seasonal Color System dataset is meticulously curated to facilitate the classification and analysis of facial images based on seasonal color types. This dataset encompasses a diverse range of female faces, each categorized into one of the four seasonal types: Spring, Summer, Autumn, and Winter. Each face in the dataset exhibits a variety of hair colors, eye colors, and skin tones representative of their respective seasonal color palette.
+1. **Upload a Photo:** Users can either take a new photo or select one from their gallery.
+2. **Facial Analysis:** Our system analyzes the photo to detect the user's skin tone and face shape.
+3. **Tailored Suggestions:** Based on the collected data, the application offers personalized clothing recommendations.
 
-Dataset Contents:
-* Spring Type: Images in this category showcase faces with warm and clear skin tones, often complemented by light hair colors like golden blonde or light strawberry blonde. Eye colors range from bright blues to light hazels.
-* Summer Type: Faces categorized under the Summer type exhibit cool undertones in their skin, with hair colors typically in ash tones like cool blonde or cool brunette. Eye colors are often cool tones such as blue-gray or soft hazel.
-* Autumn Type: This category features faces with warm and rich skin tones, often accompanied by hair colors in shades of red, copper, or rich brown. Eye colors range from warm browns to golden greens.
-* Winter Type: Faces classified as Winter types have cool and contrasting features, including porcelain or olive skin tones. Hair colors tend to be deep and contrasting, such as black or cool blonde, with eye colors often being deep blues or cool greens.
+## Goals
+
+- **Boost Confidence:** Enhance users' confidence in their daily attire choices.
+- **Comfort and Assurance:** Help users feel more comfortable and self-assured in their clothing.
+- **Self-Expression:** Aid women in expressing themselves through styles that reflect their unique characteristics.
+
+## Get Started
+
+**Not available for Public yet, please stay tuned!**
+
+## Contact
+
+For more information, contact us at [fitmelook@gmail.com](mailto:fitmelook@gmail.com).
+
+---
+
+Through this approach, we aim to empower women to express their individuality and style with confidence. Download FitMeLook today and discover the perfect outfit for every occasion!
+
+#### Members
+| Name                              | ID            | Path               | Contact                                              |
+| --------------------------------- |:-------------:|:------------------:|:---------------------------------------------------:|
+| Ghifari Maaliki Syafa Syuhada     | M004D4KY3300  | Machine Learning   | [Github](https://github.com/gmaaliki)                        |
+| Rheza Pahlevie                    | M006D4KY1908  | Machine Learning   | [Github](https://github.com/rhezapahlevie15)                        |
+| Nandana Rifqi Irfansyah           | M006D4KY2309  | Machine Learning   | [Github](https://github.com/nandanarifqii)                        |
+| Arya Wibowo Jati                  | C006D4KY0552  | Cloud Computing    | [Github](https://github.com/jateez)                  |
+| Irsyad Fikriansyah Ramadhan       | C004D4KY0389  | Cloud Computing    | [Github](https://github.com/IrsyadFikriansyah)                        |
+| Syarifah Talitha Erfany           | A004D4KX4566  | Mobile Development | [Github](https://github.com/tlithaee)                        |
+| Emily Rumia Naomi                 | A010D4KX3478  | Mobile Development | [Github](https://github.com/emilyrumia)                        |
