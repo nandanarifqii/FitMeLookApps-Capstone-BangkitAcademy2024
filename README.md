@@ -47,3 +47,4 @@ Through this approach, we aim to empower women to express their individuality an
 | Irsyad Fikriansyah Ramadhan       | C004D4KY0389  | Cloud Computing    | [Github](https://github.com/IrsyadFikriansyah)                        |
 | Syarifah Talitha Erfany           | A004D4KX4566  | Mobile Development | [Github](https://github.com/tlithaee)                        |
 | Emily Rumia Naomi                 | A010D4KX3478  | Mobile Development | [Github](https://github.com/emilyrumia)                        |
+
